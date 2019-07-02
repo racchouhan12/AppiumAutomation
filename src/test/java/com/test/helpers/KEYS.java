@@ -1,0 +1,5 @@
+package com.test.helpers;
+
+public enum KEYS {
+    PLATFORM, UDID, PROJECT_PATH, TEST_RESOURCES, REPORT_PATH, DRIVER, FEATURE_FILES_PATH, OS_NAME, APP_PATH
+}
