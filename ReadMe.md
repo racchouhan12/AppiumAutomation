@@ -10,7 +10,7 @@ We can run the test in Android emulator or real device.
 
 1. Java8 or higher should be installed.
 2. NodeJS should be installed (Version - 6.4.1 or higher) [NodeJS installation guide](https://www.guru99.com/download-install-node-js.html#1)
-3. Insatll appium - npm install -g appium  (I have used 1.13.0)
+3. Install appium - npm install -g appium  (I have used 1.13.0)
 4. Steps for Android sdk can be found in [Android Libraries and SDK installation Guide](https://www.toolsqa.com/mobile-automation/appium/appium-tutorial/)
 5. Set JAVA_HOME
 6. Install gradle and set GRADLE_HOME
@@ -51,10 +51,10 @@ We can run the test in Android emulator or real device.
 
  ##  How to run Test:
 
- 1. To run specific scenarios use command : run=@foo mvn test -PRunTest (For MAC)
-    For Windows you might need to use
-    1. set run=@foo
-    2. set app_name=Hotstar.apk
+ 1. To run specific scenarios use command :
+    For Windows/MAC you need to set environment variables
+    1. set run=@foo    [Tag to run]
+    2. set app_name=Hotstar.apk  [name of apk]
     3. set udid=emulator-5554   [Note: Value should be device id connected, command to get devices "adb devices"]
     4. set platform=android/ios
 
