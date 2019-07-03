@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d85ea9d4-b131-435d-a306-5abf44dfaa77" name="Default" comment="" />
+    <list default="true" id="d85ea9d4-b131-435d-a306-5abf44dfaa77" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/test/Exceptions/InvalidInputException.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/test/Exceptions/NotImplementedException.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/test/businessflows/LanguageSelection.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/test/businessflows/Search.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/test/businessflows/Videos.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/test/helpers/KEYS.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/test/screens/Android/AndroidLanguageScreen.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/test/screens/Android/AndroidSearchResultScreen.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/test/screens/Android/AndroidVideoPlayingScreen.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/test/screens/BaseScreen.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/test/screens/LanguageScreen.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/test/screens/SearchResultScreen.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/test/screens/VideoPlayingScreen.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/test/scripts/Command.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/test/scripts/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/test/stepdefinitions/Hooks.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/test/stepdefinitions/LanguageSteps.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/test/stepdefinitions/PlayVideoSteps.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/test/stepdefinitions/SearchSteps.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/test/utilities/AppiumServerUtils.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/test/utilities/DriverUtils.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/test/utilities/FileUtils.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/test/utilities/Reporter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/test/utilities/ScreenShotUtils.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/test/utilities/ThisRun.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/appium-automation-1.0-SNAPSHOT.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/feature/Login.feature" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/log4j2.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/voot.apk" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -53,11 +86,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VideoPlayingScreen.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="VideoPlayingScreen.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/test/screens/VideoPlayingScreen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="11" column="44" lean-forward="false" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+            <state relative-caret-position="408">
+              <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThisRun.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/test/utilities/ThisRun.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="35" column="54" lean-forward="true" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReadMe.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ReadMe.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -517,6 +570,7 @@
         <option value="$PROJECT_DIR$/src/test/java/com/test/screens/BaseScreen.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/test/screens/SearchResultScreen.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/test/screens/VideoPlayingScreen.java" />
+        <option value="$PROJECT_DIR$/ReadMe.md" />
       </list>
     </option>
   </component>
@@ -565,6 +619,30 @@
               <item name="appium-automation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appium-automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appium-automation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appium-automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appium-automation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="utilities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appium-automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appium-automation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -587,6 +665,7 @@
       <recent name="com.test.helpers" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\P7110877\IdeaProjects\appium-automation" />
       <recent name="C:\Users\P7110877\IdeaProjects\appium-automation\src\test\resources" />
       <recent name="C:\Users\P7110877\IdeaProjects\appium-automation\src\test\java\com\test" />
     </key>
@@ -805,6 +884,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -819,7 +899,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27419356" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23200513" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23200513" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -882,13 +962,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/screens/BaseScreen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1239,14 +1312,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/utilities/ThisRun.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="35" column="52" lean-forward="false" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/test/screens/BaseScreen.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -1304,10 +1369,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/utilities/ThisRun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="35" column="54" lean-forward="true" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/test/screens/VideoPlayingScreen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="11" column="44" lean-forward="false" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        <state relative-caret-position="408">
+          <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
           <folding />
         </state>
       </provider>
