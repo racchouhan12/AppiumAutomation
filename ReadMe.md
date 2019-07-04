@@ -59,3 +59,4 @@ We can run the test in Android emulator or real device.
     4. set platform=android/ios
 
  2. To run all scenarios use command : gradle cucumber
+ 3. Reports are generated in "appium-automation\reports\reports_[date_time]"
