@@ -40,7 +40,7 @@ public class AppiumServerUtils {
             osPaths.put("appiumPath", "/usr/local/lib/node_modules/appium/build/lib/main.js");
         } else if (osName.contains("windows")) {
             osPaths.put("nodePath", "C:\\Program Files\\nodejs\\node.exe");
-            osPaths.put("appiumPath", "C:\\Users\\P7110877\\AppData\\Roaming\\npm\\node_modules\\appium\\build\\lib\\main.js");
+            osPaths.put("appiumPath", "C:\\Users\\[user_folder]\\AppData\\Roaming\\npm\\node_modules\\appium\\build\\lib\\main.js");
         }
 
         return osPaths;
