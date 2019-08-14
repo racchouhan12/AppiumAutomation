@@ -17,6 +17,7 @@ We can run the test in Android emulator or real device.
 7. Install gradle and set GRADLE_HOME
 8. Add JAVA_HOME\bin and GRADLE_HOME\bin in your Path variable.
 9. Add ANDROID_HOME and other required values in path variable using Step 4.
+10. Windows CMD type appium-doctor to verify JAVA_HOME, ANDROID_HOME, adb , Bin dir for JAVA is set.
 
 ## Framework structure:
 
@@ -54,7 +55,7 @@ We can run the test in Android emulator or real device.
 
  1. To run specific scenarios use command :
     For Windows/MAC you need to set environment variables
-    1. set run=@foo    [Tag to run]
+    1. set tag=@foo    [Tag to run]
     2. set app_name=Hotstar.apk  [name of apk]
     3. set udid=emulator-5554   [Note: Value should be device id connected, command to get devices "adb devices"]
     4. set platform=android/ios
